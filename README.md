@@ -15,7 +15,8 @@ FBI will uncover all the ingredients for you!
 
 ![image](https://user-images.githubusercontent.com/74084786/219827740-2fd6bb3f-75a6-4c3b-8ecd-9d1e0313b136.png)
 
-How to set up:
+**How to set up:**
+
 Back-end:
 1. cd into /api
 2. pip install -r requirements.txt
