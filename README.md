@@ -21,7 +21,9 @@ Using PaddleOCR
 
 ## Gallery
 Landing Page:
+
 ![image](https://user-images.githubusercontent.com/74084786/219827722-4540ce18-c456-4a02-bb7d-8bbb97a1b092.png)
 
 Ingredients in bud light beer:
+
 ![image](https://user-images.githubusercontent.com/74084786/219827740-2fd6bb3f-75a6-4c3b-8ecd-9d1e0313b136.png)
