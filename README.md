@@ -7,8 +7,8 @@ FBI will uncover all the ingredients for you!
 - Utilizes SerpApi to search google for information about the ingredients
 - Built using React and Flask
 ## Gallery
-**Landing Page:
-**
+**Landing Page:**
+
 ![image](https://user-images.githubusercontent.com/74084786/219827722-4540ce18-c456-4a02-bb7d-8bbb97a1b092.png)
 
 **Ingredients in bud light beer:**
